@@ -1,0 +1,22 @@
+---
+layout:     post
+title:      "Hello World"
+subtitle:   " \"Hello Blog\""
+date:       2023-11-29 12:00:00
+author:     "Qianxing Li"
+header-img: "img/post-bg-2015.jpg"
+catalog: true
+tags:
+---
+
+# Welcome to My Blog!
+
+I finally start my personal blog. I will share my projects, ideas, and thoughts here.
+
+## Why I Made My Own Blog
+I was truggling to find a good blogging platform. I tried [Wordpress](https://wordpress.com/), [Medium](https://medium.com/), [Ghost](https://ghost.org/), and [Blogger](https://www.blogger.com/). However, none of them satisfied me. I want a simple, fast, and customizable blogging platform. So I decided to build my own blog.
+
+This blog is powered by [Github Jekyll](http://jekyllrb.com). Normally prople hosted it with [Github Pages](https://pages.github.com/), However, I decided to go with [Cloudflare Pages](https://pages.cloudflare.com/) for its better CDN performance, custom domain, and free SSL support.
+
+## The theme of this blog
+I forked the theme from [Huxpro](https://github.com/Huxpro/huxpro.github.io). I made some changes to the theme to make it more suitable for my needs.
