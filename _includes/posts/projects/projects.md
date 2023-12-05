@@ -1,6 +1,6 @@
 ## Motion X iOS
 
-<video width="100%" max-height="500px" autoplay loop muted>
+<video width="100%" max-height="500px" autoplay loop playsinline muted>
   <source src="https://github.com/LkxPro/Motion-X-Mac/assets/20046257/ce4994c9-8c17-4e87-8854-b36eaa591595" type="video/mp4" />
   <!-- <source src="demo.png" type="image/png" /> -->
     Your browser does not support the video tag.
