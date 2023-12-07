@@ -4,8 +4,8 @@ SEOTitle: Qianxing's Blog
 header-img: img/home-bg.jpg
 email: l7899616@gmail.com
 description: "Welcome to Qianxing's Blog"
-keyword: "李乾行, Lkx李乾行, Lkx, 鬼栈, lkxpro, @lkxpro, 李乾行的博客, Lkx Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
-url: "https://qianxli-sbu.github.io" # your host, for absolute URL
+keyword: "李乾行, Lkx李乾行, Lkx, lkxpro, @lkxpro, 李乾行的博客, Qianxing's Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
+url: "https://lkxp.me" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
